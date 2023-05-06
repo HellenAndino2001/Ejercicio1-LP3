@@ -1,0 +1,5 @@
+C:\Users\andino\Desktop\Lenguaje de Programacion III\Tarea 1\Iparcial-main\1PARCIAL\1PARCIAL\obj\Debug\1PARCIAL.csproj.AssemblyReference.cache
+C:\Users\andino\Desktop\Lenguaje de Programacion III\Tarea 1\Iparcial-main\1PARCIAL\1PARCIAL\obj\Debug\1PARCIAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\andino\Desktop\Lenguaje de Programacion III\Tarea 1\Iparcial-main\1PARCIAL\1PARCIAL\obj\Debug\_1PARCIAL.Properties.Resources.resources
+C:\Users\andino\Desktop\Lenguaje de Programacion III\Tarea 1\Iparcial-main\1PARCIAL\1PARCIAL\obj\Debug\1PARCIAL.csproj.GenerateResource.cache
+C:\Users\andino\Desktop\Lenguaje de Programacion III\Tarea 1\Iparcial-main\1PARCIAL\1PARCIAL\obj\Debug\1PARCIAL.csproj.CoreCompileInputs.cache
